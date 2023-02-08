@@ -1,7 +1,7 @@
+package Home_work_2.task2;
+
 // Реализуйте алгоритм сортировки пузырьком числового массива, 
 // результат после каждой итерации запишите в лог-файл.
-
-package Home_work_2.task2;
 
 import java.util.Arrays;
 import java.io.IOException;
@@ -12,13 +12,14 @@ public class bubbleSort {
     public static void main(String[] args) throws IOException {
 
         Logger logger = Logger.getLogger(bubbleSort.class.getName());
-        FileHandler fh = new FileHandler("C:/Users/Pavel/Desktop/Учеба/Курсы/Java_lessons/Home_work_2/task2/log.xml", false);
+        FileHandler fh = new FileHandler("C:/Users/Pavel/Desktop/Учеба/Курсы/Java_lessons/Home_work_2/task2/log.xml",
+                false);
         logger.addHandler(fh);
         XMLFormatter xml = new XMLFormatter();
         fh.setFormatter(xml);
 
         // System.out.println(Arrays.toString((random())));
-        int[] arr = new int[] { 8, 4, 2, 5, 7, 1, 3, 9, 6, 0};
+        int[] arr = new int[] { 8, 4, 2, 5, 7, 1, 3, 9, 6, 0 };
         System.out.println(Arrays.toString(arr));
         System.out.println(Arrays.toString(sort(arr, logger)));
 
