@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-04T12:15:38.157376100Z</date>
+  <millis>1675512938157</millis>
+  <nanos>376100</nanos>
+  <sequence>0</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 4 Replaceable: 8</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.184663500Z</date>
+  <millis>1675512938184</millis>
+  <nanos>663500</nanos>
+  <sequence>1</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 2 Replaceable: 8</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.185458400Z</date>
+  <millis>1675512938185</millis>
+  <nanos>458400</nanos>
+  <sequence>2</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 5 Replaceable: 8</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.185458400Z</date>
+  <millis>1675512938185</millis>
+  <nanos>458400</nanos>
+  <sequence>3</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 7 Replaceable: 8</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.185458400Z</date>
+  <millis>1675512938185</millis>
+  <nanos>458400</nanos>
+  <sequence>4</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 1 Replaceable: 8</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.186735300Z</date>
+  <millis>1675512938186</millis>
+  <nanos>735300</nanos>
+  <sequence>5</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 3 Replaceable: 8</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.187277200Z</date>
+  <millis>1675512938187</millis>
+  <nanos>277200</nanos>
+  <sequence>6</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 6 Replaceable: 9</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.187277200Z</date>
+  <millis>1675512938187</millis>
+  <nanos>277200</nanos>
+  <sequence>7</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 0 Replaceable: 9</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.187277200Z</date>
+  <millis>1675512938187</millis>
+  <nanos>277200</nanos>
+  <sequence>8</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 2 Replaceable: 4</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.188748300Z</date>
+  <millis>1675512938188</millis>
+  <nanos>748300</nanos>
+  <sequence>9</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 1 Replaceable: 7</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.188748300Z</date>
+  <millis>1675512938188</millis>
+  <nanos>748300</nanos>
+  <sequence>10</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 3 Replaceable: 7</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.189578700Z</date>
+  <millis>1675512938189</millis>
+  <nanos>578700</nanos>
+  <sequence>11</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 6 Replaceable: 8</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.189578700Z</date>
+  <millis>1675512938189</millis>
+  <nanos>578700</nanos>
+  <sequence>12</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 0 Replaceable: 8</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.190582400Z</date>
+  <millis>1675512938190</millis>
+  <nanos>582400</nanos>
+  <sequence>13</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 1 Replaceable: 5</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.190582400Z</date>
+  <millis>1675512938190</millis>
+  <nanos>582400</nanos>
+  <sequence>14</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 3 Replaceable: 5</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.191559800Z</date>
+  <millis>1675512938191</millis>
+  <nanos>559800</nanos>
+  <sequence>15</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 6 Replaceable: 7</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.191705200Z</date>
+  <millis>1675512938191</millis>
+  <nanos>705200</nanos>
+  <sequence>16</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 0 Replaceable: 7</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.191705200Z</date>
+  <millis>1675512938191</millis>
+  <nanos>705200</nanos>
+  <sequence>17</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 1 Replaceable: 4</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.192732600Z</date>
+  <millis>1675512938192</millis>
+  <nanos>732600</nanos>
+  <sequence>18</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 3 Replaceable: 4</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.192732600Z</date>
+  <millis>1675512938192</millis>
+  <nanos>732600</nanos>
+  <sequence>19</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 0 Replaceable: 6</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.193733500Z</date>
+  <millis>1675512938193</millis>
+  <nanos>733500</nanos>
+  <sequence>20</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 1 Replaceable: 2</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.194069200Z</date>
+  <millis>1675512938194</millis>
+  <nanos>69200</nanos>
+  <sequence>21</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 0 Replaceable: 5</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.194564300Z</date>
+  <millis>1675512938194</millis>
+  <nanos>564300</nanos>
+  <sequence>22</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 0 Replaceable: 4</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.194564300Z</date>
+  <millis>1675512938194</millis>
+  <nanos>564300</nanos>
+  <sequence>23</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 0 Replaceable: 3</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.195569900Z</date>
+  <millis>1675512938195</millis>
+  <nanos>569900</nanos>
+  <sequence>24</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 0 Replaceable: 2</message>
+</record>
+<record>
+  <date>2023-02-04T12:15:38.196061600Z</date>
+  <millis>1675512938196</millis>
+  <nanos>61600</nanos>
+  <sequence>25</sequence>
+  <logger>Home_work_2.task2.bubbleSort</logger>
+  <level>INFO</level>
+  <class>Home_work_2.task2.bubbleSort</class>
+  <method>sort</method>
+  <thread>1</thread>
+  <message>Current: 0 Replaceable: 1</message>
+</record>
+</log>
