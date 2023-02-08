@@ -19,13 +19,12 @@ public class main{
     sb.append(" AND country = ");
     sb.append(getWord(sheet, 1));
     sb.append(" AND city = ");
-    sb.append(getWord(sheet, 1));
+    sb.append(getWord(sheet, 2));
     System.out.println(sb);
     }
 
     public static String getWord (String list[], int numElement){
-        String word = list[numElement].toString();
-        return word.substring(word.indexOf(":") + 1, word.length());
+        return list[numElement].toString().substring(list[numElement].toString().indexOf(":") + 1, list[numElement].toString().length());
     }
 
 
