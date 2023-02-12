@@ -9,12 +9,12 @@ import java.util.Random;
 public class reverseList {
     
 public static void main(String[] args) {
-    List<String> reverse = new LinkedList<>();
+    
     List<String> startList = new LinkedList<>();
     startList.add("счастья!)");
-    startList.add("тебе ");
-    startList.add("желаю ");
-    startList.add("Уважаемый, ");
+    startList.add("тебе");
+    startList.add("желаю");
+    startList.add("Уважаемый,");
 
     System.out.println(startList);
     System.out.println(createReversList(startList));
