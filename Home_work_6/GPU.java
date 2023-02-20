@@ -16,6 +16,30 @@ public class GPU {
         this("", "", 0);
     }
 
+    
+    public String getManufacturer() {
+        return manufacturer;
+    }
+
+    public void setManufacturer(String manufacturer) {
+        this.manufacturer = manufacturer;
+    }
+
+    public String getmodel() {
+        return model;
+    }
+
+    public void setMemory(String model) {
+        this.model = model;
+    }
+
+    public String getMemory() {
+        return model;
+    }
+
+    public void setModel(int memory) {
+        this.memory = memory;
+    }
 
     @Override
     public String toString() {
@@ -25,7 +49,6 @@ public class GPU {
                 ", memory=" + memory + "Gb" +
                 '}';
     }
-
 
     @Override
     public boolean equals(Object obj) {
